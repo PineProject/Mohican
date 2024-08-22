@@ -1,3 +1,2 @@
-# Jura
+# Jurassic
 
-Jura is a next-level open-source API gateway.
